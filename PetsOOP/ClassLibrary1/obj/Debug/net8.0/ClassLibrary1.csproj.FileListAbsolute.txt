@@ -1,0 +1,24 @@
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\aua16\Documents\GitHub\CarsinCSharp\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\aua16\OneDrive - University of Pittsburgh\GitHub\PetsOOP\PetsOOP\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
